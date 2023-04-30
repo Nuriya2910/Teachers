@@ -1,0 +1,20 @@
+[
+    {
+        "firstName": "Abdulloh",
+        "lastName": "Qosimov",
+        "email": "abdulloh@gmail.com",
+        "phoneNumber": "123",
+        "password": "qwe",
+        "subject": "qwe",
+        "id": "fd9d412d-1809-4bb9-95ea-cd0977377e34"
+    },
+    {
+        "firstName": "Abdulloh",
+        "lastName": "Qosimov",
+        "email": "abdulloh@gmail.com",
+        "phoneNumber": "122346",
+        "password": "qwe",
+        "subject": "web",
+        "id": "b5a519fe-a63a-41b2-827a-b03502d57771"
+    }
+]
